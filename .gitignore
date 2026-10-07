@@ -1,0 +1,25 @@
+# .NET
+bin/
+obj/
+
+# React / Vite
+node_modules/
+dist/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Environment / secrets
+.env
+.env.*
+appsettings.Development.json
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
